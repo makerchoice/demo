@@ -27,7 +27,7 @@ void main()
 	}
 	for(i=0;i<m;i++)
 	{
-		printf("%d",fun(a,i,m-1));
+		printf("%d ",fun(a,i,m-1));
 	}
 	
 }
