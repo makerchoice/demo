@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//²»µÝ¹é 
 #define N 1000
 void main()
 {
